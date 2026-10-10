@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+
+# build / cache
+.next/
+out/
+build/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# local data (pglite dev database, artifacts)
+.data/
+.tmp/
+
+# environment & secrets (Blueprint §13.1: tidak ada secret di repo)
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# editor/os
+.DS_Store
+.idea/
+.vscode/
+
+# logs
+*.log
+npm-debug.log*

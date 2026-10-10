@@ -1,0 +1,7 @@
+.next
+out
+coverage
+.data
+package-lock.json
+db/migrations
+*.pdf
