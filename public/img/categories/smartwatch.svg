@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Smartwatch">
+  <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3A2413"/><stop offset="1" stop-color="#C2703A"/></linearGradient></defs>
+  <rect width="1600" height="900" fill="url(#b)"/>
+  <text x="120" y="420" font-family="system-ui,sans-serif" font-size="82" font-weight="700" fill="#FFFFFF">Smartwatch</text>
+  <text x="120" y="500" font-family="system-ui,sans-serif" font-size="36" fill="#E3E8F0">Katalog NOVA STORE</text>
+</svg>

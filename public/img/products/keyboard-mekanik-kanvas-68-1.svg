@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Kanvas Keyboard Mekanik Kanvas 68">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3A1120"/><stop offset="1" stop-color="#DB2777" stop-opacity=".6"/></linearGradient></defs>
+  <rect width="800" height="1000" fill="url(#g)"/>
+  <rect x="60" y="60" width="680" height="690" rx="28" fill="#F5F7FB" opacity=".08"/>
+  <circle cx="400" cy="400" r="150" fill="#FFFFFF" opacity=".14"/>
+  <text x="400" y="435" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="150" font-weight="700" fill="#FFFFFF" text-anchor="middle">KM</text>
+  <text x="80" y="810" font-family="system-ui,sans-serif" font-size="34" font-weight="600" fill="#FFFFFF">Kanvas</text>
+  <text x="80" y="858" font-family="system-ui,sans-serif" font-size="28" fill="#E3E8F0">Keyboard Mekanik Kanvas 68</text>
+  <text x="80" y="920" font-family="system-ui,sans-serif" font-size="20" fill="#C9D2E3">Placeholder 1/4 - bukan foto produk</text>
+</svg>
